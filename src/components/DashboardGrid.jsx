@@ -75,7 +75,7 @@ export default function DashboardGrid() {
         <div className="bg-transparent p-6 rounded-2xl lg:col-span-2 flex flex-col md:flex-row gap-4">
           <div className="bg-white w-full rounded-2xl p-4 overflow-hidden flex flex-col items-center justify-center text-center">
             <img
-              src="src/assets/images/illustration-multiple-platforms.webp"
+              src="/images/illustration-multiple-platforms.webp"
               alt=""
               className="relative left-10 sm:left-16 w-full max-w-md"
             />
@@ -89,7 +89,7 @@ export default function DashboardGrid() {
               Maintain a consistent Posting Schedule
             </h2>
             <img
-              src="src/assets/images/illustration-consistent-schedule.webp"
+              src="/images/illustration-consistent-schedule.webp"
               alt=""
               className="relative top-5 w-full max-w-md"
             />
@@ -103,7 +103,7 @@ export default function DashboardGrid() {
           </h2>
           <p className="text-lg sm:text-2xl">Faster Audience Growth.</p>
           <img
-            src="src/assets/images/illustration-audience-growth.webp"
+            src="/images/illustration-audience-growth.webp"
             alt=""
             className="w-full max-w-xs mt-4"
           />
@@ -112,7 +112,7 @@ export default function DashboardGrid() {
         {/* Card 7 */}
         <div className="p-6 rounded-2xl shadow col-span-1 sm:col-span-2 flex flex-col sm:flex-row bg-purple-700 items-center justify-center gap-6 text-white text-center sm:text-left text-3xl sm:text-4xl lg:text-5xl">
           <img
-            src="src/assets/images/illustration-grow-followers.webp"
+            src="/images/illustration-grow-followers.webp"
             alt=""
             className="w-60 sm:w-72 lg:w-80"
           />
