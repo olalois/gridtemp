@@ -20,7 +20,7 @@ export default function DashboardGrid() {
               <span className="text-purple-700">quicker.</span>
             </p>
             <img
-              src="src/assets/images/illustration-create-post.webp"
+              src="/images/illustration-create-post.webp"
               alt=""
               className="w-full max-w-sm"
             />
@@ -31,7 +31,7 @@ export default function DashboardGrid() {
               Write your content using AI
             </h2>
             <img
-              src="src/assets/images/illustration-ai-content.webp"
+              src="/images/illustration-ai-content.webp"
               alt=""
               className="w-full max-w-sm"
             />
@@ -46,7 +46,7 @@ export default function DashboardGrid() {
           </h2>
 
           <img
-            src="src/assets/images/illustration-five-stars.webp"
+            src="/images/illustration-five-stars.webp"
             alt=""
             className="w-full max-w-xs"
           />
@@ -60,7 +60,7 @@ export default function DashboardGrid() {
           </h2>
 
           <img
-            src="src/assets/images/illustration-schedule-posts.webp"
+            src="/images/illustration-schedule-posts.webp"
             alt=""
             className="relative left-10 sm:left-16 lg:left-24 w-full max-w-md"
           />
